@@ -1,4 +1,4 @@
-package com.freague
+package com.freague.team
 
 
 
